@@ -1,6 +1,7 @@
 ## Welcome to my GitHub Page
 
-# A little bit about myself:
+
+## A little bit about myself:
 
 I'd like to take some time to write about myself. 
 I am somewhat of a late bloomer. In the past, I often got complemented on my intelligence 
