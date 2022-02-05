@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Anferny009/Anferny009.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# A little bit about myself:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'd like to take some time to write about myself. 
+I am somewhat of a late bloomer. In the past, I often got complemented on my intelligence 
+but I never really took it upon myself to do anything with my life. This was due to my,
+lack of interest in school. At the time, I couldn't care less about most of what was 
+taught in high-school. Rather, I was far more interested in video games. I would often
+try creating many of my own and using various methods (some of which involved coding).
+However, I never really dove deep into coding until my late twenties. At twentyfive, 
+I finally decided I needed to get my priorities set straight (a couple of "puppy love"
+heart breakes will do that to a young lad). I went to community college and got an 
+associates in liberal arts. After that, I realized that it was logic that always kept
+my interest. Creating things from code and bringing them to life, yeah, that's what
+I wanted to do. So, here I am! A few semesters in BSU as a CS major in hopes of 
+rewritting the world, one line at a time.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anferny009/Anferny009.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Now that you have an idea of me and where I am coming from, why not check out some of my work? Click the 
+following link to see my profile [Anferny009](https://github.com/Anferny009)
